@@ -1,0 +1,6 @@
+# private keys
+keys.json
+
+# Usual suspects
+*.pyc
+venv/
