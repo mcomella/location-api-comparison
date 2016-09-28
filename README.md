@@ -13,18 +13,19 @@ Compare location APIs in a Python REPL.
 TODO: explain keys.json.
 
 ## Sample query
-Using the Foursquare API:
+Using the Foursquare API, let's find all Museums and Public Art pieces within
+an 800 meter radius of the Ferry Building:
 
     import fs
-    from util import get, FERRY_BUILDING_LL as ll
+    from util import get, FERRY_BUILDING_LL
 
     pa = dict(fs.DEFAULT_PARAMS)
     pa['categoryId'] = '4bf58dd8d48988d181941735,507c8c4091d498d9fc8c67a9'
     pa['radius'] = 800
-    pa['ll'] = ll
-    r = get(fs.URL_SEARCH, pa)
+    pa['ll'] = FERRY_BUILDING_LL
+    res = get(fs.URL_SEARCH, pa)
 
-The JSON results are stored in 'r'. You may wish to pretty print it:
+The JSON results are stored in `res`. You may wish to pretty print it:
 
     from pprint import pprint as pp
-    pp(r, depth=3)
+    pp(res, depth=3)
