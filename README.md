@@ -4,8 +4,10 @@ Compare location APIs in a Python REPL.
 ## Setup
 
     # TODO: create a keys.json file before REPL.
+    # Assuming you have virtualenv installed...
+    virtualenv venv                  # create virtualenv
+    source venv/bin/activate         # use virtualenv
     pip install -r requirements.txt  # install deps
-    source venv/bin/activate         # use deps
     python                           # start REPL
 
 TODO: explain keys.json.
