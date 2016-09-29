@@ -18,5 +18,5 @@ def _get(url, is_result_plural, params):
     key = 'results' if is_result_plural else 'result'
     return util.get(url, params)[key]
 
-places = partial(_get, URL_SEARCH, True)
-place = partial(_get, URL_DETAILS, False)
+search = partial(_get, URL_SEARCH, True)
+details = partial(_get, URL_DETAILS, False)
