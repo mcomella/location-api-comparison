@@ -12,3 +12,6 @@ assert 'client_secret' in _keys
 
 DEFAULT_PARAMS = dict({'v': _VERSION,
                        'm': _MODE}.items() + _keys.items())
+
+def get(url, params):
+    return util.get(url, params)['response']
