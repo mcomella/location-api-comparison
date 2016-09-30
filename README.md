@@ -61,7 +61,28 @@ Let's get the [details][gp_details] on the Transamerica Pyramid:
     pa['placeid'] = 'ChIJQ-U7wYqAhYAReKjwcBt6SGU'
     result = gp.details(pa)
 
+### Here
+Let's [search][here_search] for all "sights-meseums" and "leisure-outdoor"
+places within an 800 meter radius of the Ferry Building:
+
+    import here
+    from util import FERRY_BUILDING_LL
+
+    pa = dict(here.DEFAULT_PARAMS)
+    pa['in'] = FERRY_BUILDING_LL + ';r=800'
+    pa['cat'] = 'sights-museums,leisure-outdoor'
+    result = here.search(pa)
+
+This API returns items with an attribute, `href` that contains the place
+details. Let's get the details for one:
+
+    # using the previous result
+    import util
+    details = util.get(result['results']['items'][0]['href'],
+                       here.DEFAULT_PARAMS)
+
 [fs_search]: https://developer.foursquare.com/docs/venues/search
 [fs_details]: https://developer.foursquare.com/docs/venues/venues
 [gp_search]: https://developers.google.com/places/web-service/search
 [gp_details]: https://developers.google.com/places/web-service/details
+[here_search]: https://developer.here.com/rest-apis/documentation/places/topics_api/resource-explore.html
