@@ -81,8 +81,33 @@ details. Let's get the details for one:
     details = util.get(result['results']['items'][0]['href'],
                        here.DEFAULT_PARAMS)
 
+### Yelp
+Let's [search][yelp_search] for all "arts" and "realestate" near the Ferry
+Building:
+
+    import yelp
+    from util import FERRY_BUILDING_LL as LL
+
+    pa = dict(yelp.DEFAULT_PARAMS)
+    la, lo = LL.split(',')
+    pa['latitude'] = la
+    pa['longitude'] = lo
+    pa['radius'] = '800'
+    pa['categories'] = 'arts,realestate'
+    result = yelp.search(pa)
+
+Let's get the [details][yelp_details] for the Exploratorium:
+
+    import yelp
+    result = yelp.details('exploratorium-san-francisco-2')
+
+If you run into issues, note that Yelp uses OAuth under the hood so something
+may have gone wrong with authentication.
+
 [fs_search]: https://developer.foursquare.com/docs/venues/search
 [fs_details]: https://developer.foursquare.com/docs/venues/venues
 [gp_search]: https://developers.google.com/places/web-service/search
 [gp_details]: https://developers.google.com/places/web-service/details
 [here_search]: https://developer.here.com/rest-apis/documentation/places/topics_api/resource-explore.html
+[yelp_search]: https://www.yelp.com/developers/documentation/v3/business_search
+[yelp_details]: https://www.yelp.com/developers/documentation/v3/business
