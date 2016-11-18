@@ -10,6 +10,20 @@ DEF_PARAMS = {'latitude': 19.924043,
               'limit': _ITER}
               #'sort_by': 'distance'} # breaks the total in received json
 
+SHOW_CATS = {'active',
+             'arts',
+             'beautysvc',
+             'eventservices',
+             'food',
+             'hotelstravel',
+             'localflavor',
+             'massmedia',
+             'nightlife',
+             'pets',
+             'publicservicesgovt',
+             'restaurants',
+             'shopping'}
+
 HIDE_CATS = {'auto',
              "bicycles",
              "education",
