@@ -164,6 +164,14 @@ def replace_distance_to_hotel(places):
         out.append(place_cpy)
     return out
 
+def rm_id(places):
+    out = []
+    for place in places:
+        cpy = dict(place)
+        if 'id' in cpy: del cpy['id']
+        out.append(cpy)
+    return out
+
 def main():
     # note: I've never actually run this before; just in pieces in repl.
     places = query(DEF_PARAMS)
