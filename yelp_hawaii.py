@@ -3,13 +3,6 @@ from pprint import pprint as pp
 import json
 import yelp
 
-ITER = 50
-DEF_PARAMS = {'latitude': 19.924043,
-              'longitude': -155.887652,
-              'radius': 27000,
-              'limit': _ITER}
-              #'sort_by': 'distance'} # breaks the total in received json
-
 SHOW_CATS = {'active',
              'arts',
              'beautysvc',
@@ -34,6 +27,14 @@ HIDE_CATS = {'auto',
              "professional",
              "realestate",
              "religiousorgs"}
+
+ITER = 50
+DEF_PARAMS = {'latitude': 19.924043,
+              'longitude': -155.887652,
+              'radius': 27000,
+              'limit': _ITER,
+              'categories': ','.join(SHOW_CATS)}
+              #'sort_by': 'distance'} # breaks the total in received json
 
 def cats_to_root_dict():
     with open('categories.json') as f:
@@ -69,8 +70,9 @@ def query(params):
     res = yelp.search(params)
     out = res['businesses']
     total = res['total']
+    print 'total: ' + str(total)
     for offset in range(ITER, min(1000, total), ITER):
-        sleep(1) # avoid rate limit
+        #sleep(1) # avoid rate limit
         params['offset'] = offset
         res = yelp.search(params)
         out += res['businesses']
@@ -117,11 +119,25 @@ def should_show_place_by_rating(rating, review_count):
 def sort_by_distance(places):
     return sorted(places, key=lambda p: p['distance'])
 
+def query_full(lat, lng):
+    params = dict(DEF_PARAMS)
+    params['latitude'] = lat
+    params['longitude'] = lng
+    places = query(params)
+
+    # discrepency is because yelp returns fewer results than specified in total.
+    print 'actual: ' + str(len(places))
+
+    pr_places = prune_data(places)
+    filtered_places = filter_places(pr_places)
+    sorted_places = sort_by_distance(filtered_places)
+    return sorted_places
+
 def main():
     # note: I've never actually run this before; just in pieces in repl.
     places = query(DEF_PARAMS)
     pr_places = prune_data(places)
-    filtered_places = filter_places(res)
+    filtered_places = filter_places(pr_places)
     sorted_places = sort_by_distance(filtered_places)
     pp(sorted_places)
 
