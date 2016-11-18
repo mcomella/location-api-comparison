@@ -31,7 +31,7 @@ HIDE_CATS = {'auto',
 ITER = 50
 DEF_PARAMS = {'latitude': 19.924043,
               'longitude': -155.887652,
-              'radius': 27000,
+              'radius': 40000,
               'limit': _ITER,
               'categories': ','.join(SHOW_CATS)}
               #'sort_by': 'distance'} # breaks the total in received json
@@ -121,10 +121,11 @@ def should_show_place_by_rating(rating, review_count):
 def sort_by_distance(places):
     return sorted(places, key=lambda p: p['distance'])
 
-def query_full(lat, lng):
+def query_full(lat, lng, radius):
     params = dict(DEF_PARAMS)
     params['latitude'] = lat
     params['longitude'] = lng
+    params['radius'] = radius
     places = query(params)
 
     # discrepency is because yelp returns fewer results than specified in total.
