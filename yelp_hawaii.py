@@ -100,14 +100,16 @@ def should_show_place(place):
     return should_show_place_by_cats(cats) and should_show_place_by_rating(rating, review_count)
 
 def should_show_place_by_cats(cats):
-    cats_to_root = CATS_TO_ROOT
+    #cats_to_root = CATS_TO_ROOT
 
-    roots = set()
-    for cat in cats:
-        roots = roots.union(cats_to_root[cat])
+    #roots = set()
+    #for cat in cats:
+    #    roots = roots.union(cats_to_root[cat])
 
-    if len(roots - HIDE_CATS) == 0:
-        return False
+    #if len(roots - HIDE_CATS) == 0:
+    #    return False
+
+    # We whitelisted the categories so we don't need to do ^ anymore.
     return True
 
 def should_show_place_by_rating(rating, review_count):
