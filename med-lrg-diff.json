@@ -1,0 +1,514 @@
+[
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9890709, 
+            "longitude": -155.6767883
+        }, 
+        "review_count": 4, 
+        "name": "Hawaiian Homestead Farmer's Market", 
+        "distance": 23216.595761995304, 
+        "categories": [
+            "streetvendors", 
+            "flowers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.425913, 
+            "longitude": -155.875667
+        }, 
+        "review_count": 4, 
+        "name": "Kane Plantation Guesthouse", 
+        "distance": 55157.44189204337, 
+        "categories": [
+            "bedbreakfast", 
+            "guesthouses"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.42364, 
+            "longitude": -155.91116
+        }, 
+        "review_count": 1, 
+        "name": "Pae'a aka two-step", 
+        "distance": 55449.557842514165, 
+        "categories": [
+            "snorkeling"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.423192, 
+            "longitude": -155.911413
+        }, 
+        "review_count": 57, 
+        "name": "Two Step", 
+        "distance": 55500.28602448444, 
+        "categories": [
+            "beaches", 
+            "diving"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.4224095773335, 
+            "longitude": -155.909941296192
+        }, 
+        "review_count": 136, 
+        "name": "Pu'uhonua O Honaunau National Historical Park", 
+        "distance": 55580.107542751226, 
+        "categories": [
+            "parks"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.043889, 
+            "longitude": -155.370278
+        }, 
+        "review_count": 2, 
+        "name": "Aloha Weddings in Paradise", 
+        "distance": 55748.86821475812, 
+        "categories": [
+            "wedding_planning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.4187705, 
+            "longitude": -155.8813551
+        }, 
+        "review_count": 10, 
+        "name": "Aloha Guest House Bed and Breakfast", 
+        "distance": 55937.67465851261, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.4164140664364, 
+            "longitude": -155.880672575295
+        }, 
+        "review_count": 5, 
+        "name": "D&E Fuel Good Stop", 
+        "distance": 56199.393510193484, 
+        "categories": [
+            "desserts", 
+            "bakeries", 
+            "servicestations"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.415926, 
+            "longitude": -155.874222
+        }, 
+        "review_count": 2, 
+        "name": "Bwana Bob's Hawaiian Vacation Cottages", 
+        "distance": 56266.28252232005, 
+        "categories": [
+            "vacation_rentals", 
+            "guesthouses", 
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.4131643168509, 
+            "longitude": -155.880742553108
+        }, 
+        "review_count": 80, 
+        "name": "South Kona Fruit Stand", 
+        "distance": 56559.00658092529, 
+        "categories": [
+            "markets", 
+            "juicebars"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.02985, 
+            "longitude": -155.34871
+        }, 
+        "review_count": 1, 
+        "name": "Erma's Lunch Shop", 
+        "distance": 57610.21256366446, 
+        "categories": [
+            "cafes"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.0299436, 
+            "longitude": -155.3479969
+        }, 
+        "review_count": 29, 
+        "name": "Donna's Cookies", 
+        "distance": 57685.37887933943, 
+        "categories": [
+            "bakeries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.40025, 
+            "longitude": -155.88108
+        }, 
+        "review_count": 4, 
+        "name": "Hale-Hoola Bed and Breakfast", 
+        "distance": 57988.03696246669, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.40025, 
+            "longitude": -155.88108
+        }, 
+        "review_count": 1, 
+        "name": "Hale Ho'ola", 
+        "distance": 57988.03696246669, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.02752, 
+            "longitude": -155.34002
+        }, 
+        "review_count": 11, 
+        "name": "Earl's Paauilo Store", 
+        "distance": 58450.335365088526, 
+        "categories": [
+            "grocery"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.3802359652247, 
+            "longitude": -155.898377404171
+        }, 
+        "review_count": 5, 
+        "name": "Ho'okena Beach Park", 
+        "distance": 60209.93804984545, 
+        "categories": [
+            "parks", 
+            "localflavor", 
+            "beaches"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.37472, 
+            "longitude": -155.8809
+        }, 
+        "review_count": 8, 
+        "name": "Kealia Ranch Store", 
+        "distance": 60814.15194493464, 
+        "categories": [
+            "shopping"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.36335, 
+            "longitude": -155.87359
+        }, 
+        "review_count": 5, 
+        "name": "Horizon Guest House", 
+        "distance": 62086.16773092925, 
+        "categories": [
+            "bedbreakfast", 
+            "guesthouses"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.313875, 
+            "longitude": -155.876548
+        }, 
+        "review_count": 5, 
+        "name": "Affordable Kona Paradise Weddings", 
+        "distance": 67555.38236346295, 
+        "categories": [
+            "officiants"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9908905, 
+            "longitude": -155.2429504
+        }, 
+        "review_count": 9, 
+        "name": "Laupahoehoe Point Memorial Park", 
+        "distance": 67888.74120312755, 
+        "categories": [
+            "playgrounds"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9931999244421, 
+            "longitude": -155.240639005749
+        }, 
+        "review_count": 1, 
+        "name": "Laupahoehoe Music Festival", 
+        "distance": 68157.0039305198, 
+        "categories": [
+            "festivals"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9936761707154, 
+            "longitude": -155.240102441113
+        }, 
+        "review_count": 1, 
+        "name": "Laupahoehoe Point Lighthouse", 
+        "distance": 68218.64959213787, 
+        "categories": [
+            "landmarks"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9846275, 
+            "longitude": -155.2354821
+        }, 
+        "review_count": 13, 
+        "name": "Hamakua Mushrooms", 
+        "distance": 68595.96174198114, 
+        "categories": [
+            "markets", 
+            "tours"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.98414, 
+            "longitude": -155.234
+        }, 
+        "review_count": 3, 
+        "name": "Laupahoehoe Train Museum", 
+        "distance": 68745.22264467698, 
+        "categories": [
+            "museums"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.982, 
+            "longitude": -155.22935
+        }, 
+        "review_count": 1, 
+        "name": "II D Zine Salon", 
+        "distance": 69207.80062045156, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.98233, 
+            "longitude": -155.22925
+        }, 
+        "review_count": 8, 
+        "name": "Laupahoehoe Point Beach Park", 
+        "distance": 69221.54782638351, 
+        "categories": [
+            "parks", 
+            "localflavor"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.9823303, 
+            "longitude": -155.229248
+        }, 
+        "review_count": 2, 
+        "name": "Minit Stop", 
+        "distance": 69221.75930133616, 
+        "categories": [
+            "convenience"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.294117, 
+            "longitude": -155.8741608
+        }, 
+        "review_count": 4, 
+        "name": "Kona Rain Forest Coffee Farm", 
+        "distance": 69746.8268317855, 
+        "categories": [
+            "farms"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.974926, 
+            "longitude": -155.2166515
+        }, 
+        "review_count": 28, 
+        "name": "Papaaloa Country Store & Cafe", 
+        "distance": 70466.0739976495, 
+        "categories": [
+            "cafes", 
+            "grocery", 
+            "bakeries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7031566, 
+            "longitude": -155.2382164
+        }, 
+        "review_count": 2, 
+        "name": "Eat What Get", 
+        "distance": 72301.56654998352, 
+        "categories": [
+            "restaurants"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7031566, 
+            "longitude": -155.2382164
+        }, 
+        "review_count": 1, 
+        "name": "CharLee's Cupcake Creations", 
+        "distance": 72301.56654998352, 
+        "categories": [
+            "fooddeliveryservices", 
+            "cupcakes"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.4388891, 
+            "longitude": -155.4044644
+        }, 
+        "review_count": 3, 
+        "name": "At the End of the Road Bed & Breakfast", 
+        "distance": 73833.19079817344, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.2518856, 
+            "longitude": -155.8085049
+        }, 
+        "review_count": 2, 
+        "name": "Princess Radha Farm", 
+        "distance": 74869.19999383106, 
+        "categories": [
+            "coffee"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.9332504, 
+            "longitude": -155.1612549
+        }, 
+        "review_count": 1, 
+        "name": "Umauma Bridge", 
+        "distance": 76056.30411034716, 
+        "categories": [
+            "landmarks"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.71924, 
+            "longitude": -155.08186
+        }, 
+        "review_count": 1, 
+        "name": "Oceans", 
+        "distance": 87409.71996088584, 
+        "categories": [
+            "restaurants"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.42323, 
+            "longitude": -155.23935
+        }, 
+        "review_count": 1, 
+        "name": "The Wright Place", 
+        "distance": 87721.51575498238, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.2006199495377, 
+            "longitude": -155.521430969238
+        }, 
+        "review_count": 4, 
+        "name": "Wood Valley Temple & Retreat Center", 
+        "distance": 88825.05172710947, 
+        "categories": [
+            "buddhist_temples", 
+            "guesthouses", 
+            "healthretreats"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6948605, 
+            "longitude": -155.0682831
+        }, 
+        "review_count": 2, 
+        "name": "Lau Lau Family", 
+        "distance": 89517.65561645372, 
+        "categories": [
+            "farmersmarket"
+        ]
+    }
+]
