@@ -172,6 +172,15 @@ def rm_id(places):
         out.append(cpy)
     return out
 
+# To query over 40km.
+# - Make multiple individual queries (don't exceed 1000 items!)
+# - call:
+#   - dedupe_places(*args)
+#   - replace_distance_to_hotel
+#   - sort_by_distance
+#   - rm_id
+#   - write_places
+
 def main():
     # note: I've never actually run this before; just in pieces in repl.
     places = query(DEF_PARAMS)
