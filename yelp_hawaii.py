@@ -172,6 +172,19 @@ def rm_id(places):
         out.append(cpy)
     return out
 
+# Get the items in lrg that aren't in sm.
+def diff(sm, lrg):
+    in_sm = set()
+    for place in sm:
+        in_sm.add(place['id'])
+
+    out = []
+    for place in lrg:
+        if place['id'] in in_sm: continue
+        cpy = dict(place)
+        out.append(cpy)
+    return out
+
 # To query over 40km.
 # - Make multiple individual queries (don't exceed 1000 items!)
 # - call:
