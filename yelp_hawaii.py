@@ -35,6 +35,8 @@ def cats_to_root_dict():
         cats_to_root[cat['alias']] = root
     return cats_to_root
 
+CATS_TO_ROOT = cats_to_root_dict()
+
 def get_root_category(cats_to_parents, cat):
     parents = cats_to_parents[cat]
     if parents is None:
@@ -82,7 +84,7 @@ def should_show_place(place):
     return should_show_place_by_cats(cats) and should_show_place_by_rating(rating, review_count)
 
 def should_show_place_by_cats(cats):
-    cats_to_root = cats_to_root_dict() # TODO: OOPS SLOW
+    cats_to_root = CATS_TO_ROOT
 
     roots = set()
     for cat in cats:
