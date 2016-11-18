@@ -133,6 +133,9 @@ def query_full(lat, lng):
     sorted_places = sort_by_distance(filtered_places)
     return sorted_places
 
+def write_places(filename, places):
+    with open(filename, 'w') as f: json.dump(places, f, indent=4)
+
 def main():
     # note: I've never actually run this before; just in pieces in repl.
     places = query(DEF_PARAMS)
