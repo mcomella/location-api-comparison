@@ -25,7 +25,7 @@ HIDE_CATS = {'auto',
              "homeservices",
              "localservices",
              "professional",
-             "realestate",
+             #"realestate", # not a root category
              "religiousorgs"}
 
 ITER = 50
