@@ -1,3 +1,4 @@
+from geopy.distance import vincenty
 from time import sleep
 from pprint import pprint as pp
 import json
@@ -149,6 +150,18 @@ def dedupe_places(*args):
             if id in seen: continue
             seen.add(id)
             out.append(place)
+    return out
+
+HOTEL_COORD = (19.924043, -155.887652)
+def replace_distance_to_hotel(places):
+    out = []
+    for place in places:
+        tmp_c = place['coord']
+        coord = (tmp_c['latitude'], tmp_c['longitude'])
+        dist = vincenty(HOTEL_COORD, coord).m
+        place_cpy = dict(place)
+        place_cpy['distance'] = dist
+        out.append(place_cpy)
     return out
 
 def main():
