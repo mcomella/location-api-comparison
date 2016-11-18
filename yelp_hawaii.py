@@ -88,6 +88,7 @@ def place_to_pruned_place(place):
             'review_count': place['review_count'],
             'categories': map(lambda p: p['alias'], place['categories']),
             'distance': place['distance'],
+            'id': place['id'],
             'coord': place['coordinates']}
 
 def filter_places(places):
@@ -138,6 +139,17 @@ def query_full(lat, lng, radius):
 
 def write_places(filename, places):
     with open(filename, 'w') as f: json.dump(places, f, indent=4)
+
+def dedupe_places(*args):
+    seen = set()
+    out = []
+    for place_list in args:
+        for place in place_list:
+            id = place['id']
+            if id in seen: continue
+            seen.add(id)
+            out.append(place)
+    return out
 
 def main():
     # note: I've never actually run this before; just in pieces in repl.
