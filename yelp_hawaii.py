@@ -72,6 +72,19 @@ def cats_to_descendants_dict():
 
 CATS_TO_DESCENDANTS = cats_to_descendants_dict()
 
+def get_hidden_categories():
+    with open('hidden.csv') as f:
+        csv = f.read()
+    hidden_cat_parents = csv.split(',')
+
+    hidden_cats = set()
+    for cat in hidden_cat_parents:
+        hidden_cats.update([cat])
+        hidden_cats.update(CATS_TO_DESCENDANTS[cat])
+    return hidden_cats
+
+HIDE_SUBCATS = get_hidden_categories()
+
 def get_root_category(cats_to_parents, cat):
     parents = cats_to_parents[cat]
     if parents is None:
@@ -122,7 +135,9 @@ def should_show_place(place):
 
 def should_show_place_by_cats(cats):
     # We whitelisted the categories so we don't need to do ^ anymore.
-    return True
+    catset = set(cats)
+    all_match = len(catset - HIDE_SUBCATS) == 0
+    return not all_match
 
 def should_show_place_by_rating(rating, review_count):
     if rating <= 2.5 or \
