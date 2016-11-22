@@ -5,6 +5,8 @@ from pprint import pprint as pp
 import json
 import yelp
 
+_HIDE_BY_MATCH_ALL = True
+
 SHOW_CATS = {'active',
              'arts',
              'eventservices',
@@ -135,9 +137,14 @@ def should_show_place(place):
 
 def should_show_place_by_cats(cats):
     # We whitelisted the categories so we don't need to do ^ anymore.
-    catset = set(cats)
-    all_match = len(catset - HIDE_SUBCATS) == 0
-    return not all_match
+    if _HIDE_BY_MATCH_ALL:
+        catset = set(cats)
+        all_match = len(catset - HIDE_SUBCATS) == 0
+        return not all_match
+
+    for cat in cats:
+        if cat in HIDE_SUBCATS: return False
+    return True
 
 def should_show_place_by_rating(rating, review_count):
     if rating <= 2.5 or \
