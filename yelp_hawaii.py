@@ -1,3 +1,4 @@
+from collections import defaultdict
 from geopy.distance import vincenty
 from time import sleep
 from pprint import pprint as pp
@@ -38,7 +39,38 @@ def cats_to_root_dict():
         cats_to_root[cat['alias']] = root
     return cats_to_root
 
-CATS_TO_ROOT = cats_to_root_dict()
+CATS_TO_ROOT = cats_to_root_dict() # TODO: rm?
+
+def cats_to_descendants_dict():
+    with open('categories.json') as f:
+        cats = json.load(f)
+
+    parent_to_desc = defaultdict(set)
+    for cat in cats:
+        name = cat['alias']
+        parents = cat['parents']
+
+        # Ensure leaf nodes have entries.
+        if name not in parent_to_desc:
+            parent_to_desc[name] = set()
+
+        for parent in parents:
+            parent_to_desc[parent].update([name])
+
+    out = {}
+    for (cat, children) in parent_to_desc.iteritems():
+        out[cat] = children
+
+        grandchildren = set()
+        for child in children:
+            if child in parent_to_desc: update = parent_to_desc[child]
+            else: update = set()
+            grandchildren.update(update)
+        out[cat].update(grandchildren)
+
+    return out
+
+CATS_TO_DESCENDANTS = cats_to_descendants_dict()
 
 def get_root_category(cats_to_parents, cat):
     parents = cats_to_parents[cat]
