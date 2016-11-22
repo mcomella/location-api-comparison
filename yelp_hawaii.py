@@ -15,9 +15,10 @@ SHOW_CATS = {'active',
              'restaurants',
              'shopping'}
 
+HOTEL_COORD = (19.924043, -155.887652)
 ITER = 50
-DEF_PARAMS = {'latitude': 19.924043,
-              'longitude': -155.887652,
+DEF_PARAMS = {'latitude': HOTEL_COORD[0],
+              'longitude': HOTEL_COORD[1],
               'radius': 40000,
               'limit': _ITER,
               'categories': ','.join(SHOW_CATS)}
@@ -129,7 +130,6 @@ def dedupe_places(*args):
             out.append(place)
     return out
 
-HOTEL_COORD = (19.924043, -155.887652)
 def replace_distance_to_hotel(places):
     out = []
     for place in places:
