@@ -1,0 +1,3062 @@
+[
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.924652, 
+            "longitude": -155.886151
+        }, 
+        "review_count": 1, 
+        "name": "Alamo Rent A Car", 
+        "distance": 170.3408015142, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.9196167, 
+            "longitude": -155.8872657
+        }, 
+        "review_count": 2, 
+        "name": "Hawiian Ukulele and Guitar", 
+        "distance": 493.88072874679995, 
+        "categories": [
+            "musicalinstrumentsandteachers", 
+            "guitarstores"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9166298, 
+            "longitude": -155.8847504
+        }, 
+        "review_count": 1, 
+        "name": "Lamonts Gift & Sundry Shops", 
+        "distance": 878.15729242, 
+        "categories": [
+            "flowers"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.916312, 
+            "longitude": -155.8848924
+        }, 
+        "review_count": 17, 
+        "name": "Blinnk Photography of Kona", 
+        "distance": 907.01034461, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 20, 
+        "name": "Whalers General Store", 
+        "distance": 1021.0884105099999, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 2, 
+        "name": "Tori Richard", 
+        "distance": 1021.0884105099999, 
+        "categories": [
+            "menscloth", 
+            "womenscloth", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9164211, 
+            "longitude": -155.8821969
+        }, 
+        "review_count": 1, 
+        "name": "Hawaii's Gift Basket Boutique", 
+        "distance": 1021.0884105099999, 
+        "categories": [
+            "giftshops"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9165096, 
+            "longitude": -155.8822174
+        }, 
+        "review_count": 1, 
+        "name": "Jourabchi Inc", 
+        "distance": 1021.0884105099999, 
+        "categories": [
+            "womenscloth"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 1, 
+        "name": "Under the Koa Tree", 
+        "distance": 1021.0884105099999, 
+        "categories": [
+            "flowers"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 6, 
+        "name": "Walking In Paradise", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "shoes"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 5, 
+        "name": "Tiffany & Co", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 6, 
+        "name": "Tommy Bahama", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "menscloth", 
+            "womenscloth", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 6, 
+        "name": "Na Hoku", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 4, 
+        "name": "Genesis Galleries Hawaii", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 2, 
+        "name": "Noa Noa", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 3, 
+        "name": "Honolua Surf Co", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "menscloth", 
+            "womenscloth", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 1, 
+        "name": "Kohala Coast Fine Art", 
+        "distance": 1025.0678899016, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.91651, 
+            "longitude": -155.88222
+        }, 
+        "review_count": 2, 
+        "name": "Mary Jane's", 
+        "distance": 1034.586830227, 
+        "categories": [
+            "jewelry", 
+            "accessories"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9254494, 
+            "longitude": -155.8843231
+        }, 
+        "review_count": 8, 
+        "name": "Sasha Hawaii", 
+        "distance": 1050.396423118, 
+        "categories": [
+            "womenscloth", 
+            "childcloth", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9254494, 
+            "longitude": -155.8843231
+        }, 
+        "review_count": 7, 
+        "name": "Crazy Shirts", 
+        "distance": 1050.396423118, 
+        "categories": [
+            "menscloth"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 2, 
+        "name": "Dolphin Galleries", 
+        "distance": 1050.396423118, 
+        "categories": [
+            "galleries", 
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9254494, 
+            "longitude": -155.8843231
+        }, 
+        "review_count": 1, 
+        "name": "Rip Curl Surf Center", 
+        "distance": 1050.396423118, 
+        "categories": [
+            "sportswear", 
+            "surfshop"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.924174, 
+            "longitude": -155.877464
+        }, 
+        "review_count": 1, 
+        "name": "Kona Surf N Sandals", 
+        "distance": 1065.6814999162, 
+        "categories": [
+            "surfshop"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 1, 
+        "name": "The Walking Company", 
+        "distance": 1130.1610427684, 
+        "categories": [
+            "shoes"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 1, 
+        "name": "L'occitane", 
+        "distance": 1130.1610427684, 
+        "categories": [
+            "skincare"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.913532, 
+            "longitude": -155.888059
+        }, 
+        "review_count": 5, 
+        "name": "Calley O'Neill and The Full Body Elixir", 
+        "distance": 1169.638136875, 
+        "categories": [
+            "yoga"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9138389287389, 
+            "longitude": -155.880548179467
+        }, 
+        "review_count": 1, 
+        "name": "Malibu Shirts", 
+        "distance": 1355.64927509, 
+        "categories": [
+            "accessories", 
+            "menscloth", 
+            "womenscloth"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.913784, 
+            "longitude": -155.880228
+        }, 
+        "review_count": 1, 
+        "name": "Lids", 
+        "distance": 1379.3488343584, 
+        "categories": [
+            "accessories", 
+            "sportswear"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9155102, 
+            "longitude": -155.8827209
+        }, 
+        "review_count": 86, 
+        "name": "Hearts & Stars Salon & Day Spa", 
+        "distance": 1391.6766040659998, 
+        "categories": [
+            "hair", 
+            "spas", 
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.9155104, 
+            "longitude": -155.8827164
+        }, 
+        "review_count": 19, 
+        "name": "Persimmon", 
+        "distance": 1411.310552066, 
+        "categories": [
+            "womenscloth", 
+            "accessories"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9155104, 
+            "longitude": -155.8827164
+        }, 
+        "review_count": 1, 
+        "name": "SoHa Living", 
+        "distance": 1411.310552066, 
+        "categories": [
+            "homedecor", 
+            "giftshops", 
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.9132014, 
+            "longitude": -155.8806327
+        }, 
+        "review_count": 3, 
+        "name": "Local Motion", 
+        "distance": 1411.310552066, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.9155104, 
+            "longitude": -155.8827164
+        }, 
+        "review_count": 1, 
+        "name": "Starscape Gallery", 
+        "distance": 1411.310552066, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 2, 
+        "name": "Claire's Boutique", 
+        "distance": 1551.0527629459998, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 2, 
+        "name": "Kohala Bay Collections", 
+        "distance": 2212.477340754, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 6, 
+        "name": "Oasis Lifestyle", 
+        "distance": 2578.661897268, 
+        "categories": [
+            "accessories", 
+            "womenscloth", 
+            "giftshops"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.92797, 
+            "longitude": -155.78648
+        }, 
+        "review_count": 2, 
+        "name": "Simanjuntak Photography", 
+        "distance": 2741.10674566, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.92797, 
+            "longitude": -155.78648
+        }, 
+        "review_count": 1, 
+        "name": "Nail Delivery", 
+        "distance": 2741.10674566, 
+        "categories": [
+            "skincare", 
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9436426810229, 
+            "longitude": -155.863509201074
+        }, 
+        "review_count": 11, 
+        "name": "Maya Parish Yoga", 
+        "distance": 3334.332322288, 
+        "categories": [
+            "yoga"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.9414635, 
+            "longitude": -155.8607692
+        }, 
+        "review_count": 3, 
+        "name": "Lamonts Gift & Sundry Shops", 
+        "distance": 3334.332322288, 
+        "categories": [
+            "flowers"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 2, 
+        "name": "Lahaina Galleries", 
+        "distance": 3585.38904042, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.941318, 
+            "longitude": -155.858261
+        }, 
+        "review_count": 1, 
+        "name": "Hawaiian Island Creations", 
+        "distance": 3623.2761227, 
+        "categories": [
+            "sportswear", 
+            "surfshop", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9417636504009, 
+            "longitude": -155.858493235742
+        }, 
+        "review_count": 16, 
+        "name": "Kona Kozy's Comedy & Magic Show", 
+        "distance": 3629.59519621, 
+        "categories": [
+            "magicians"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9411664, 
+            "longitude": -155.8571663
+        }, 
+        "review_count": 12, 
+        "name": "Moana Salon & Day Spa", 
+        "distance": 3712.4239026599994, 
+        "categories": [
+            "spas", 
+            "othersalons", 
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 5, 
+        "name": "Jourabchi Botique", 
+        "distance": 3712.4239026599994, 
+        "categories": [
+            "womenscloth", 
+            "lingerie", 
+            "accessories"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 1, 
+        "name": "Island's Edge Art & Design", 
+        "distance": 3712.4239026599994, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 1, 
+        "name": "The Grin", 
+        "distance": 3712.4239026599994, 
+        "categories": [
+            "childcloth", 
+            "menscloth", 
+            "womenscloth"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9516374864038, 
+            "longitude": -155.859990119934
+        }, 
+        "review_count": 23, 
+        "name": "Spa Without Walls", 
+        "distance": 4216.324832862, 
+        "categories": [
+            "spas"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.950913, 
+            "longitude": -155.858191
+        }, 
+        "review_count": 15, 
+        "name": "Pacific Dream Photography", 
+        "distance": 4291.076905588, 
+        "categories": [
+            "eventphotography", 
+            "videographers", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9756508, 
+            "longitude": -155.8257113
+        }, 
+        "review_count": 5, 
+        "name": "Molly Irene Media", 
+        "distance": 7080.58262054, 
+        "categories": [
+            "photographers", 
+            "videographers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9279709, 
+            "longitude": -155.7864838
+        }, 
+        "review_count": 8, 
+        "name": "Passion Flowers By Nalani", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9372484, 
+            "longitude": -155.7910681
+        }, 
+        "review_count": 5, 
+        "name": "Big Hawaiian Island Photography", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 4, 
+        "name": "The Walking Company", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "shoes"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9289099, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 4, 
+        "name": "Vows In Hawaii", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "wedding_planning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9289099, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 1, 
+        "name": "Life and Light Hawaii Photography", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "sessionphotography", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9372484, 
+            "longitude": -155.7910681
+        }, 
+        "review_count": 6, 
+        "name": "Ohana Carvers", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.92891, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 1, 
+        "name": "Principle Limousine LLC.", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "limos"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.92891, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 2, 
+        "name": "Paradise Weddings Hawaii", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "eventplanning"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.92797, 
+            "longitude": -155.78648
+        }, 
+        "review_count": 1, 
+        "name": "Hot Tubs In Paradise", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "hottubandpool"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }, 
+        "review_count": 1, 
+        "name": "Sunglass Hut", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "opticians"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.9289093, 
+            "longitude": -155.7868195
+        }, 
+        "review_count": 1, 
+        "name": "Haimoff & Haimoff Creations In Gold", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.9289099, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 3, 
+        "name": "As Hawi Turns", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "giftshops"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.92891, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 1, 
+        "name": "Dara Wipp", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.92891, 
+            "longitude": -155.78682
+        }, 
+        "review_count": 2, 
+        "name": "Air Taxi & Tours", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "taxis", 
+            "limos"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9275799, 
+            "longitude": -155.7874451
+        }, 
+        "review_count": 3, 
+        "name": "Aloha Natural Health", 
+        "distance": 10447.34201729, 
+        "categories": [
+            "naturopathic", 
+            "acupuncture", 
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.90572, 
+            "longitude": -155.75795
+        }, 
+        "review_count": 6, 
+        "name": "Absolute Salon", 
+        "distance": 10469.922505896, 
+        "categories": [
+            "hair", 
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.92758, 
+            "longitude": -155.78746
+        }, 
+        "review_count": 8, 
+        "name": "On Stage Salon Inc", 
+        "distance": 10469.922505896, 
+        "categories": [
+            "othersalons", 
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9274117630706, 
+            "longitude": -155.787160065765
+        }, 
+        "review_count": 1, 
+        "name": "Honua Cleaning", 
+        "distance": 10512.4583277, 
+        "categories": [
+            "homecleaning", 
+            "vacation_rentals", 
+            "officecleaning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9268705103066, 
+            "longitude": -155.787071193216
+        }, 
+        "review_count": 1, 
+        "name": "Island Bikram Yoga", 
+        "distance": 10520.069379362, 
+        "categories": [
+            "yoga"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9287434, 
+            "longitude": -155.7868517
+        }, 
+        "review_count": 4, 
+        "name": "Waikoloa Village Market Pharmacy", 
+        "distance": 10527.714227164, 
+        "categories": [
+            "drugstores"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.9961565170239, 
+            "longitude": -155.81745879773
+        }, 
+        "review_count": 9, 
+        "name": "Nicco Floral Design", 
+        "distance": 10868.34536129, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 20.0078316, 
+            "longitude": -155.8250275
+        }, 
+        "review_count": 2, 
+        "name": "Accents Gift Shop", 
+        "distance": 11290.106865364, 
+        "categories": [
+            "flowers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.9950733, 
+            "longitude": -155.8225861
+        }, 
+        "review_count": 1, 
+        "name": "Turtle Point", 
+        "distance": 11556.78963116, 
+        "categories": [
+            "wedding_planning"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.82922, 
+            "longitude": -155.83662
+        }, 
+        "review_count": 7, 
+        "name": "Hawaii Island Weddings by Kauka", 
+        "distance": 11817.44960294, 
+        "categories": [
+            "wedding_planning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.82922, 
+            "longitude": -155.83662
+        }, 
+        "review_count": 1, 
+        "name": "Wishard Gallery", 
+        "distance": 11817.44960294, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.8292199307896, 
+            "longitude": -155.836620032787
+        }, 
+        "review_count": 1, 
+        "name": "L'core Paris", 
+        "distance": 11817.44960294, 
+        "categories": [
+            "cosmetics"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.00528, 
+            "longitude": -155.80744
+        }, 
+        "review_count": 1, 
+        "name": "Wai'ula'ula At Mauna Kea Resort", 
+        "distance": 12131.867324343999, 
+        "categories": [
+            "vacation_rentals"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.023122, 
+            "longitude": -155.8093286
+        }, 
+        "review_count": 1, 
+        "name": "Aloha Debbie Properties", 
+        "distance": 13678.810637599998, 
+        "categories": [
+            "vacation_rentals"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.03721, 
+            "longitude": -155.8268
+        }, 
+        "review_count": 20, 
+        "name": "Blue Dragon Bodywork", 
+        "distance": 14112.70318566, 
+        "categories": [
+            "massage", 
+            "spas"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0381393, 
+            "longitude": -155.8284607
+        }, 
+        "review_count": 1, 
+        "name": "Island Herbal", 
+        "distance": 14119.67484654, 
+        "categories": [
+            "cosmetics"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.974244, 
+            "longitude": -155.761338
+        }, 
+        "review_count": 4, 
+        "name": "Ann Ferguson Photography", 
+        "distance": 14334.394598679999, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.03892, 
+            "longitude": -155.83
+        }, 
+        "review_count": 2, 
+        "name": "The Harbor Gallery", 
+        "distance": 14377.927245679999, 
+        "categories": [
+            "furniture", 
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0453892, 
+            "longitude": -155.8347321
+        }, 
+        "review_count": 8, 
+        "name": "CrossFit Kawaihae", 
+        "distance": 14582.58862282, 
+        "categories": [
+            "gyms"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.826788, 
+            "longitude": -155.991467
+        }, 
+        "review_count": 4, 
+        "name": "Hualalai Trading Company", 
+        "distance": 15324.167666799998, 
+        "categories": [
+            "giftshops"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.8272215634665, 
+            "longitude": -155.992212295532
+        }, 
+        "review_count": 6, 
+        "name": "Spa at Four Seasons Resort Hualalai at Historic Ka'upulehu", 
+        "distance": 15345.834211219999, 
+        "categories": [
+            "spas"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0224495, 
+            "longitude": -155.7713165
+        }, 
+        "review_count": 2, 
+        "name": "In Touch Massage Therapy", 
+        "distance": 18469.65166492, 
+        "categories": [
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.02515, 
+            "longitude": -155.70792
+        }, 
+        "review_count": 10, 
+        "name": "Aaah the Views Bed & Breakfast", 
+        "distance": 21891.84075462, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0785977516839, 
+            "longitude": -155.753230825067
+        }, 
+        "review_count": 1, 
+        "name": "The Pooch Mobile", 
+        "distance": 22195.21261, 
+        "categories": [
+            "groomer"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.94127, 
+            "longitude": -155.8578599
+        }, 
+        "review_count": 1, 
+        "name": "Reyn Spooner", 
+        "distance": 22254.27055998, 
+        "categories": [
+            "menscloth", 
+            "childcloth", 
+            "swimwear"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 20.0197087086924, 
+            "longitude": -155.695658928589
+        }, 
+        "review_count": 2, 
+        "name": "Doggie Dude Ranch", 
+        "distance": 22710.07749082, 
+        "categories": [
+            "pet_sitting", 
+            "pet_training"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.73899, 
+            "longitude": -155.98018
+        }, 
+        "review_count": 1, 
+        "name": "Bears' Place Guest House", 
+        "distance": 22740.411940479997, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0101395, 
+            "longitude": -155.6791382
+        }, 
+        "review_count": 2, 
+        "name": "CrossFit Waimea", 
+        "distance": 23801.193917419998, 
+        "categories": [
+            "gyms", 
+            "healthtrainers"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.7225113, 
+            "longitude": -155.9778595
+        }, 
+        "review_count": 6, 
+        "name": "Mango Sunset Bed and Breakfast Inn", 
+        "distance": 24006.22222408, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.722794, 
+            "longitude": -155.976284
+        }, 
+        "review_count": 10, 
+        "name": "Paws University", 
+        "distance": 24223.468640019997, 
+        "categories": [
+            "pet_sitting"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7243595, 
+            "longitude": -155.9851532
+        }, 
+        "review_count": 1, 
+        "name": "Robin Bourne Photography", 
+        "distance": 24434.269649259997, 
+        "categories": [
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.0214806, 
+            "longitude": -155.671463
+        }, 
+        "review_count": 6, 
+        "name": "There's No Place Like Om", 
+        "distance": 24459.49927244, 
+        "categories": [
+            "yoga"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7243879, 
+            "longitude": -155.9858238
+        }, 
+        "review_count": 1, 
+        "name": "Bree's Taxi", 
+        "distance": 24461.53508754, 
+        "categories": [
+            "taxis", 
+            "airport_shuttles"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 20.02411, 
+            "longitude": -155.67628
+        }, 
+        "review_count": 3, 
+        "name": "Fischer Kenneth OD", 
+        "distance": 24647.95298644, 
+        "categories": [
+            "opticians", 
+            "optometrists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02301, 
+            "longitude": -155.67695
+        }, 
+        "review_count": 1, 
+        "name": "Sugar Bare Hawaii", 
+        "distance": 24654.51265628, 
+        "categories": [
+            "waxing"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0237081, 
+            "longitude": -155.676677
+        }, 
+        "review_count": 3, 
+        "name": "Kamuela Massage", 
+        "distance": 24676.699017519997, 
+        "categories": [
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0224628, 
+            "longitude": -155.6755898
+        }, 
+        "review_count": 4, 
+        "name": "Sassafras", 
+        "distance": 24717.785467719998, 
+        "categories": [
+            "galleries", 
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02148, 
+            "longitude": -155.67518
+        }, 
+        "review_count": 1, 
+        "name": "Gregore Salon", 
+        "distance": 24721.295438259996, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.0215299, 
+            "longitude": -155.67451
+        }, 
+        "review_count": 10, 
+        "name": "Gallery of Great Things", 
+        "distance": 24772.4418728, 
+        "categories": [
+            "antiques", 
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.0215299, 
+            "longitude": -155.67451
+        }, 
+        "review_count": 5, 
+        "name": "Sweet Wind", 
+        "distance": 24772.4418728, 
+        "categories": [
+            "bookstores"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.0215299, 
+            "longitude": -155.67451
+        }, 
+        "review_count": 2, 
+        "name": "Bentleys Home Collection", 
+        "distance": 24772.4418728, 
+        "categories": [
+            "homeandgarden"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.724062, 
+            "longitude": -155.992176
+        }, 
+        "review_count": 12, 
+        "name": "Kelilina Photography + Films", 
+        "distance": 24780.1988916, 
+        "categories": [
+            "videographers", 
+            "sessionphotography", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0226002, 
+            "longitude": -155.6749115
+        }, 
+        "review_count": 8, 
+        "name": "Le'ale'a Fitness", 
+        "distance": 24786.21621386, 
+        "categories": [
+            "gyms", 
+            "martialarts", 
+            "healthtrainers"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.02197, 
+            "longitude": -155.67404
+        }, 
+        "review_count": 3, 
+        "name": "Antiques by", 
+        "distance": 24838.39101666, 
+        "categories": [
+            "antiques"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.022697, 
+            "longitude": -155.673758
+        }, 
+        "review_count": 1, 
+        "name": "Isaacs Art Center At Hawaii Preparatory Academy", 
+        "distance": 24900.98146794, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0196, 
+            "longitude": -155.67141
+        }, 
+        "review_count": 1, 
+        "name": "Monica Scheel, MD", 
+        "distance": 24994.31996926, 
+        "categories": [
+            "dermatology", 
+            "cosmeticsurgeons", 
+            "laser_hair_removal"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 17, 
+        "name": "Dahana Ranch", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "petservices"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 3, 
+        "name": "Keola Training", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "healthtrainers"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 7, 
+        "name": "Parker Ranch Store", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "shoes"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 2, 
+        "name": "Island Intimates Lingerie", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "lingerie"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0230556, 
+            "longitude": -155.6716667
+        }, 
+        "review_count": 1, 
+        "name": "Fusion Artistry & Bodyworks", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "spas", 
+            "reflexology", 
+            "massage_therapy"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02031, 
+            "longitude": -155.66903
+        }, 
+        "review_count": 4, 
+        "name": "Big Island Party Bus", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "partybusrentals"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 1, 
+        "name": "Mokulele Airlines", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "airlines"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }, 
+        "review_count": 2, 
+        "name": "Graciela's Hair Salon", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7067820256904, 
+            "longitude": -155.954637389237
+        }, 
+        "review_count": 2, 
+        "name": "Hair Trendz", 
+        "distance": 25154.90474248, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0203094482422, 
+            "longitude": -155.669036865234
+        }, 
+        "review_count": 1, 
+        "name": "Platinum Home Services", 
+        "distance": 25230.6290175, 
+        "categories": [
+            "vacation_rentals", 
+            "propertymgmt"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7177391, 
+            "longitude": -155.9924774
+        }, 
+        "review_count": 1, 
+        "name": "Balai Kona", 
+        "distance": 25426.501788899997, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 20.021969, 
+            "longitude": -155.6676257
+        }, 
+        "review_count": 2, 
+        "name": "Topstitch", 
+        "distance": 25441.87500925, 
+        "categories": [
+            "fabricstores"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.0207556, 
+            "longitude": -155.6668175
+        }, 
+        "review_count": 17, 
+        "name": "MUSE Bride", 
+        "distance": 25461.09938022, 
+        "categories": [
+            "photographers", 
+            "makeupartists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0202599, 
+            "longitude": -155.667099
+        }, 
+        "review_count": 2, 
+        "name": "Wishard Gallery", 
+        "distance": 25461.09938022, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.021078, 
+            "longitude": -155.666622
+        }, 
+        "review_count": 7, 
+        "name": "Supercuts", 
+        "distance": 25495.0194394, 
+        "categories": [
+            "hair"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02216, 
+            "longitude": -155.66754
+        }, 
+        "review_count": 1, 
+        "name": "Lehua Jewelers", 
+        "distance": 25507.12811356, 
+        "categories": [
+            "jewelry"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02178, 
+            "longitude": -155.66676
+        }, 
+        "review_count": 1, 
+        "name": "Kamuela Animal Clinic", 
+        "distance": 25517.10119354, 
+        "categories": [
+            "vet"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0231609, 
+            "longitude": -155.6666565
+        }, 
+        "review_count": 5, 
+        "name": "Studio b Salon", 
+        "distance": 25565.848102139997, 
+        "categories": [
+            "hair", 
+            "waxing"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02211, 
+            "longitude": -155.66593
+        }, 
+        "review_count": 6, 
+        "name": "Ace Hardware", 
+        "distance": 25595.92344806, 
+        "categories": [
+            "hardware"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.7190094, 
+            "longitude": -156.0019073
+        }, 
+        "review_count": 4, 
+        "name": "Wahine Toa Designs", 
+        "distance": 25742.23337548, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.7373257, 
+            "longitude": -156.0405273
+        }, 
+        "review_count": 3, 
+        "name": "Kona International Airport Gift Shop", 
+        "distance": 26057.960134039997, 
+        "categories": [
+            "giftshops"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.72268, 
+            "longitude": -156.0154499
+        }, 
+        "review_count": 1, 
+        "name": "Aloha Taxi", 
+        "distance": 26079.216296759998, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.72395, 
+            "longitude": -156.01807
+        }, 
+        "review_count": 4, 
+        "name": "Mels Taxi", 
+        "distance": 26101.069524619998, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.7362745, 
+            "longitude": -156.0406302
+        }, 
+        "review_count": 1, 
+        "name": "Cho's Lei Stand", 
+        "distance": 26102.55172676, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.73473, 
+            "longitude": -156.03617
+        }, 
+        "review_count": 5, 
+        "name": "National Car Rental", 
+        "distance": 26162.94864762, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02468, 
+            "longitude": -155.6612341
+        }, 
+        "review_count": 1, 
+        "name": "C & S Hunting Supplies", 
+        "distance": 26174.56969176, 
+        "categories": [
+            "huntingfishingsupplies"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0238877, 
+            "longitude": -155.6608365
+        }, 
+        "review_count": 1, 
+        "name": "Ban-Nix Home Medical Equipment", 
+        "distance": 26174.654986779995, 
+        "categories": [
+            "medicalsupplies"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.735603, 
+            "longitude": -156.038053
+        }, 
+        "review_count": 1, 
+        "name": "Hawaii Car Rentals", 
+        "distance": 26203.18375696, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.59278, 
+            "longitude": -155.95557
+        }, 
+        "review_count": 1, 
+        "name": "Ohana Casual Wear", 
+        "distance": 26208.58631134, 
+        "categories": [
+            "fashion"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.7288504879973, 
+            "longitude": -156.028918095859
+        }, 
+        "review_count": 2, 
+        "name": "Hawaiian Gardens", 
+        "distance": 26257.84981808, 
+        "categories": [
+            "gardening"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.0248247775147, 
+            "longitude": -155.660249441066
+        }, 
+        "review_count": 7, 
+        "name": "Nails by Kim", 
+        "distance": 26275.1711445, 
+        "categories": [
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.736077013724, 
+            "longitude": -156.04071489907
+        }, 
+        "review_count": 1, 
+        "name": "Jovi's Taxi", 
+        "distance": 26329.08242516, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.6972809, 
+            "longitude": -155.9611511
+        }, 
+        "review_count": 1, 
+        "name": "The Lilikoi Vine", 
+        "distance": 26360.355120039996, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0254384, 
+            "longitude": -155.6596396
+        }, 
+        "review_count": 4, 
+        "name": "Nicco Floral Design", 
+        "distance": 26361.972506739996, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.737199, 
+            "longitude": -156.042914
+        }, 
+        "review_count": 1, 
+        "name": "Tiare Enterprise", 
+        "distance": 26370.912390439997, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.7369706326641, 
+            "longitude": -156.042928540039
+        }, 
+        "review_count": 95, 
+        "name": "Enterprise Rent-A-Car", 
+        "distance": 26391.959338959998, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }, 
+        "review_count": 2, 
+        "name": "Alamo Rent a Car", 
+        "distance": 26396.80988972, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.0259399, 
+            "longitude": -155.6594849
+        }, 
+        "review_count": 7, 
+        "name": "Kamuela Nails", 
+        "distance": 26400.24743996, 
+        "categories": [
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0259399, 
+            "longitude": -155.6594849
+        }, 
+        "review_count": 5, 
+        "name": "Massage Studio", 
+        "distance": 26400.24743996, 
+        "categories": [
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7206009, 
+            "longitude": -156.017787
+        }, 
+        "review_count": 2, 
+        "name": "Bonita Lao Catering", 
+        "distance": 26403.01872344, 
+        "categories": [
+            "catering"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.0248203, 
+            "longitude": -155.658844
+        }, 
+        "review_count": 6, 
+        "name": "Fix Hair Lounge", 
+        "distance": 26408.120331240003, 
+        "categories": [
+            "makeupartists", 
+            "hairstylists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02483, 
+            "longitude": -155.65884
+        }, 
+        "review_count": 1, 
+        "name": "Kuleana Wellness Club", 
+        "distance": 26409.93244808, 
+        "categories": [
+            "gyms"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.02652, 
+            "longitude": -155.659511
+        }, 
+        "review_count": 3, 
+        "name": "CrossFit AllStar", 
+        "distance": 26425.068290779996, 
+        "categories": [
+            "gyms"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 20.025079, 
+            "longitude": -155.658782
+        }, 
+        "review_count": 7, 
+        "name": "Beauty by Waimea Magnolias", 
+        "distance": 26425.771572359998, 
+        "categories": [
+            "barbers"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.7015931049899, 
+            "longitude": -155.984081968035
+        }, 
+        "review_count": 1, 
+        "name": "Halo Lani", 
+        "distance": 26714.22484594, 
+        "categories": [
+            "vacation_rentals"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6975899, 
+            "longitude": -155.9763336
+        }, 
+        "review_count": 3, 
+        "name": "Big Island Focus", 
+        "distance": 26836.529857920003, 
+        "categories": [
+            "eventphotography", 
+            "videographers"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.69208, 
+            "longitude": -155.97594
+        }, 
+        "review_count": 18, 
+        "name": "Kona Veterinary Service", 
+        "distance": 27397.90466474, 
+        "categories": [
+            "vet"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.699897, 
+            "longitude": -156.011204
+        }, 
+        "review_count": 4, 
+        "name": "Hawaii Executive Transportation", 
+        "distance": 28076.630935019995, 
+        "categories": [
+            "airport_shuttles", 
+            "limos"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.6998901, 
+            "longitude": -156.0112
+        }, 
+        "review_count": 16, 
+        "name": "Kona Flower Shoppe", 
+        "distance": 28087.650085999998, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.69929, 
+            "longitude": -156.01238
+        }, 
+        "review_count": 1, 
+        "name": "Private Transportation Company", 
+        "distance": 28193.572016779995, 
+        "categories": [
+            "carrental"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.6154995, 
+            "longitude": -155.9494019
+        }, 
+        "review_count": 1, 
+        "name": "Green Lions Bed & Breakfast", 
+        "distance": 28350.7530359, 
+        "categories": [
+            "bedbreakfast"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.679028, 
+            "longitude": -155.986611
+        }, 
+        "review_count": 1, 
+        "name": "Facial Fitness", 
+        "distance": 29146.47671484, 
+        "categories": [
+            "skincare", 
+            "permanentmakeup", 
+            "waxing"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6919804, 
+            "longitude": -156.0173187
+        }, 
+        "review_count": 3, 
+        "name": "BedMart Mattress Superstores", 
+        "distance": 29162.608739, 
+        "categories": [
+            "mattresses"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.69198, 
+            "longitude": -156.01732
+        }, 
+        "review_count": 1, 
+        "name": "Hula Lamps of Hawaii", 
+        "distance": 29162.608739, 
+        "categories": [
+            "galleries", 
+            "homedecor"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6910725, 
+            "longitude": -156.0166321
+        }, 
+        "review_count": 3, 
+        "name": "Fused Hawaii Boutique", 
+        "distance": 29204.853913999996, 
+        "categories": [
+            "swimwear", 
+            "menscloth", 
+            "womenscloth"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.691, 
+            "longitude": -156.01649
+        }, 
+        "review_count": 2, 
+        "name": "Island Pet Supplies", 
+        "distance": 29204.853913999996, 
+        "categories": [
+            "petstore"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6911156, 
+            "longitude": -156.0167873
+        }, 
+        "review_count": 4, 
+        "name": "Akamai Art Supply, Inc", 
+        "distance": 29212.70105584, 
+        "categories": [
+            "artsupplies"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.69004, 
+            "longitude": -156.01626
+        }, 
+        "review_count": 3, 
+        "name": "Of Land and Sea", 
+        "distance": 29280.6699214, 
+        "categories": [
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.69004, 
+            "longitude": -156.01626
+        }, 
+        "review_count": 3, 
+        "name": "Kaloko Furniture", 
+        "distance": 29280.6699214, 
+        "categories": [
+            "furniture"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6777401, 
+            "longitude": -155.9881744
+        }, 
+        "review_count": 1, 
+        "name": "Tim Rice Photography", 
+        "distance": 29297.3265904, 
+        "categories": [
+            "photographers"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.69037, 
+            "longitude": -156.01924
+        }, 
+        "review_count": 3, 
+        "name": "Farm & Garden", 
+        "distance": 29402.34246276, 
+        "categories": [
+            "gardening", 
+            "farmingequipment"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.68828, 
+            "longitude": -156.01654
+        }, 
+        "review_count": 5, 
+        "name": "Sunrise Nursery", 
+        "distance": 29473.78911206, 
+        "categories": [
+            "gardening"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.687984, 
+            "longitude": -156.01581
+        }, 
+        "review_count": 3, 
+        "name": "Double Dare", 
+        "distance": 29475.36143724, 
+        "categories": [
+            "adult"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.688044, 
+            "longitude": -156.0159525
+        }, 
+        "review_count": 7, 
+        "name": "Dog Groomer", 
+        "distance": 29476.043797399998, 
+        "categories": [
+            "groomer"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6888804, 
+            "longitude": -156.0181911
+        }, 
+        "review_count": 1, 
+        "name": "Wright Gallery Hawaii", 
+        "distance": 29501.06259704, 
+        "categories": [
+            "galleries"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.68988, 
+            "longitude": -156.02032
+        }, 
+        "review_count": 1, 
+        "name": "Tink & Ink  LLC", 
+        "distance": 29505.9372879, 
+        "categories": [
+            "artsupplies"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.69027, 
+            "longitude": -156.02183
+        }, 
+        "review_count": 1, 
+        "name": "Bella Pietra Kona", 
+        "distance": 29539.96356352, 
+        "categories": [
+            "buildingsupplies", 
+            "homedecor"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.687162, 
+            "longitude": -156.015934
+        }, 
+        "review_count": 5, 
+        "name": "Scheel Monica, MD", 
+        "distance": 29562.610195999998, 
+        "categories": [
+            "dermatology", 
+            "hairremoval"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6868706, 
+            "longitude": -156.0155487
+        }, 
+        "review_count": 21, 
+        "name": "Revive Wellness Hawaii", 
+        "distance": 29565.4828679, 
+        "categories": [
+            "spas", 
+            "skincare", 
+            "hairremoval"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.6870393, 
+            "longitude": -156.0157334
+        }, 
+        "review_count": 19, 
+        "name": "Mac Made Easy", 
+        "distance": 29565.4828679, 
+        "categories": [
+            "mobilephonerepair", 
+            "datarecovery", 
+            "computers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6868706, 
+            "longitude": -156.0155487
+        }, 
+        "review_count": 3, 
+        "name": "Ashley J Studios", 
+        "distance": 29565.4828679, 
+        "categories": [
+            "makeupartists", 
+            "hairstylists"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.6868706, 
+            "longitude": -156.0155487
+        }, 
+        "review_count": 4, 
+        "name": "Kevin McHugh Optical", 
+        "distance": 29566.17166542, 
+        "categories": [
+            "opticians"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.68766, 
+            "longitude": -156.01734
+        }, 
+        "review_count": 2, 
+        "name": "HomeWorld Furniture", 
+        "distance": 29572.92445606, 
+        "categories": [
+            "furniture"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6868706, 
+            "longitude": -156.0155487
+        }, 
+        "review_count": 18, 
+        "name": "Wave Salon", 
+        "distance": 29577.1425362, 
+        "categories": [
+            "hair", 
+            "waxing", 
+            "othersalons"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.68726921, 
+            "longitude": -156.016777038
+        }, 
+        "review_count": 2, 
+        "name": "Splash Superpools Of Hawaii", 
+        "distance": 29592.00157242, 
+        "categories": [
+            "hottubandpool"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.68824, 
+            "longitude": -156.02094
+        }, 
+        "review_count": 10, 
+        "name": "Outrageous Gourmet", 
+        "distance": 29702.027320199995, 
+        "categories": [
+            "catering", 
+            "eventplanning", 
+            "personalchefs"
+        ]
+    }, 
+    {
+        "rating": 3.0, 
+        "coord": {
+            "latitude": 19.68714, 
+            "longitude": -156.0197499
+        }, 
+        "review_count": 3, 
+        "name": "Island Collections", 
+        "distance": 29746.367855879995, 
+        "categories": [
+            "furniture"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6713847663425, 
+            "longitude": -155.981519598267
+        }, 
+        "review_count": 1, 
+        "name": "Ola Mai Massage", 
+        "distance": 29762.31641528, 
+        "categories": [
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.6863003, 
+            "longitude": -156.0184326
+        }, 
+        "review_count": 2, 
+        "name": "Furnishings By Debi", 
+        "distance": 29766.936830419996, 
+        "categories": [
+            "furniture"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.68608, 
+            "longitude": -156.01952
+        }, 
+        "review_count": 3, 
+        "name": "Sleep Train Kailua - Kona", 
+        "distance": 29832.7218216, 
+        "categories": [
+            "mattresses"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.6676074763426, 
+            "longitude": -155.980901322754
+        }, 
+        "review_count": 3, 
+        "name": "Conscious Riddims Records", 
+        "distance": 30137.83820154, 
+        "categories": [
+            "musicvideo"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.6733831005352, 
+            "longitude": -156.00368142128
+        }, 
+        "review_count": 8, 
+        "name": "West Hawaii Civic Center", 
+        "distance": 30401.639605, 
+        "categories": [
+            "publicservicesgovt"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }, 
+        "review_count": 10, 
+        "name": "Couple Cups", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 21.37164, 
+            "longitude": -157.72697
+        }, 
+        "review_count": 9, 
+        "name": "Betty Kemper", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "wedding_planning", 
+            "officiants"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6634457, 
+            "longitude": -155.9815932
+        }, 
+        "review_count": 6, 
+        "name": "Mark Hinwood Photographer LLC", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "sessionphotography", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }, 
+        "review_count": 5, 
+        "name": "Laura's Taxi", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "limos", 
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }, 
+        "review_count": 3, 
+        "name": "AMS TAXI Aloha Mobile Services", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99568
+        }, 
+        "review_count": 3, 
+        "name": "Fletcher Films", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "videofilmproductions", 
+            "videographers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.673666, 
+            "longitude": -156.012211
+        }, 
+        "review_count": 3, 
+        "name": "L.H.L. Feed Store", 
+        "distance": 30740.42337774, 
+        "categories": [
+            "petstore"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.6742096, 
+            "longitude": -156.0128937
+        }, 
+        "review_count": 3, 
+        "name": "Kona Aerials Gymnastics", 
+        "distance": 30740.42337774, 
+        "categories": [
+            "gyms"
+        ]
+    }, 
+    {
+        "rating": 3.5, 
+        "coord": {
+            "latitude": 19.6701248, 
+            "longitude": -156.0205525
+        }, 
+        "review_count": 3, 
+        "name": "Pacific Rim Fishing Supplies", 
+        "distance": 31536.056933639997, 
+        "categories": [
+            "huntingfishingsupplies"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6470825636391, 
+            "longitude": -155.996718810095
+        }, 
+        "review_count": 13, 
+        "name": "Premier Spa Services", 
+        "distance": 32843.88869398, 
+        "categories": [
+            "skincare", 
+            "hairremoval", 
+            "spraytanning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6426633, 
+            "longitude": -155.9938018
+        }, 
+        "review_count": 9, 
+        "name": "Simple Kona Beach Weddings", 
+        "distance": 33201.92017312, 
+        "categories": [
+            "officiants", 
+            "wedding_planning"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6429211, 
+            "longitude": -155.9944772
+        }, 
+        "review_count": 28, 
+        "name": "Eye Expression Photography", 
+        "distance": 33202.97911884, 
+        "categories": [
+            "photographers"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6432274603348, 
+            "longitude": -155.998986036523
+        }, 
+        "review_count": 4, 
+        "name": "Jun's Taxi", 
+        "distance": 33328.81019475999, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 4.5, 
+        "coord": {
+            "latitude": 19.6425807734781, 
+            "longitude": -155.998299391016
+        }, 
+        "review_count": 11, 
+        "name": "R Jay Taxi", 
+        "distance": 33371.193773, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.638616, 
+            "longitude": -155.989323
+        }, 
+        "review_count": 24, 
+        "name": "Taxi Joe", 
+        "distance": 33474.307405479994, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99568
+        }, 
+        "review_count": 4, 
+        "name": "David O Baldwin Photography", 
+        "distance": 33484.360952459996, 
+        "categories": [
+            "photographers"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.6402149132028, 
+            "longitude": -155.996867639517
+        }, 
+        "review_count": 4, 
+        "name": "Dakine Taxi", 
+        "distance": 33566.60949184, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.639994, 
+            "longitude": -155.9969261
+        }, 
+        "review_count": 9, 
+        "name": "Color Catering", 
+        "distance": 33591.92119136, 
+        "categories": [
+            "catering", 
+            "personalchefs"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99568
+        }, 
+        "review_count": 4, 
+        "name": "Smart Chef Hawaii", 
+        "distance": 33591.92119136, 
+        "categories": [
+            "personalchefs"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }, 
+        "review_count": 3, 
+        "name": "Chef Timothy James", 
+        "distance": 33591.92119136, 
+        "categories": [
+            "personalchefs", 
+            "catering"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6371403, 
+            "longitude": -155.9902649
+        }, 
+        "review_count": 6, 
+        "name": "Photography By Glen", 
+        "distance": 33660.652884079995, 
+        "categories": [
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.631841, 
+            "longitude": -155.9863651
+        }, 
+        "review_count": 3, 
+        "name": "Image Sense Hawaii", 
+        "distance": 34094.40059154, 
+        "categories": [
+            "videographers", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.6203647, 
+            "longitude": -155.9671099
+        }, 
+        "review_count": 3, 
+        "name": "Creative Video & Photo Concepts", 
+        "distance": 34777.2178041, 
+        "categories": [
+            "wedding_planning", 
+            "videographers", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.59221, 
+            "longitude": -155.95584
+        }, 
+        "review_count": 1, 
+        "name": "Kalanis Taxi", 
+        "distance": 37582.150974159995, 
+        "categories": [
+            "taxis"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.5429151, 
+            "longitude": -155.6658568
+        }, 
+        "review_count": 1, 
+        "name": "Funky Hula Girl Photography", 
+        "distance": 48321.8336258, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7297222, 
+            "longitude": -155.09
+        }, 
+        "review_count": 1, 
+        "name": "Hawaii Princess Party", 
+        "distance": 86191.84402707999, 
+        "categories": [
+            "eventplanning"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 19.7296791, 
+            "longitude": -155.0650024
+        }, 
+        "review_count": 1, 
+        "name": "Aloha Boudoir Photography", 
+        "distance": 88729.90839164, 
+        "categories": [
+            "sessionphotography", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.7204906, 
+            "longitude": -155.0645712
+        }, 
+        "review_count": 5, 
+        "name": "Walczuk Productions LLC", 
+        "distance": 89026.4840042, 
+        "categories": [
+            "videographers", 
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 19.62235, 
+            "longitude": -155.03922
+        }, 
+        "review_count": 4, 
+        "name": "Oneself Portrait and Photography", 
+        "distance": 94929.20999082, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.7983626, 
+            "longitude": -156.3319253
+        }, 
+        "review_count": 8, 
+        "name": "Barry Frankel Island Fresh Photography", 
+        "distance": 107690.6276268, 
+        "categories": [
+            "eventphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.7825, 
+            "longitude": -156.46334
+        }, 
+        "review_count": 3, 
+        "name": "Tenessa Chase Photography", 
+        "distance": 110043.05462235998, 
+        "categories": [
+            "videofilmproductions", 
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.80304, 
+            "longitude": -156.31042
+        }, 
+        "review_count": 6, 
+        "name": "Brandon LaRue Professional Photography", 
+        "distance": 115243.67867519999, 
+        "categories": [
+            "eventphotography", 
+            "sessionphotography"
+        ]
+    }, 
+    {
+        "rating": 4.0, 
+        "coord": {
+            "latitude": 20.886816, 
+            "longitude": -156.4654694
+        }, 
+        "review_count": 4, 
+        "name": "Renee Thomas Designs", 
+        "distance": 122962.0008949, 
+        "categories": [
+            "wedding_planning", 
+            "eventplanning", 
+            "florists"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 20.9488982587626, 
+            "longitude": -156.691236646176
+        }, 
+        "review_count": 47, 
+        "name": "Mobile Massage Maui", 
+        "distance": 140265.0371658, 
+        "categories": [
+            "massage"
+        ]
+    }, 
+    {
+        "rating": 5.0, 
+        "coord": {
+            "latitude": 21.493587, 
+            "longitude": -158.0261109
+        }, 
+        "review_count": 5, 
+        "name": "Hayashi Paul Photography", 
+        "distance": 282718.5997042, 
+        "categories": [
+            "photographers"
+        ]
+    }
+]
