@@ -1,1 +1,432 @@
-[{"rating": 4.5, "coord": {"latitude": 19.91651, "longitude": -155.88222}, "review_count": 2, "name": "Mary Jane's", "distance": 1034.586830227, "categories": ["jewelry", "accessories"]}, {"rating": 4.0, "coord": {"latitude": 19.92545, "longitude": -155.88433}, "review_count": 2, "name": "Dolphin Galleries", "distance": 1050.396423118, "categories": ["galleries", "jewelry"]}, {"rating": 4.0, "coord": {"latitude": 19.92545, "longitude": -155.88433}, "review_count": 11, "name": "Quiksilver", "distance": 1411.310552066, "categories": ["sportswear", "surfing", "swimwear"]}, {"rating": 5.0, "coord": {"latitude": 19.9155104, "longitude": -155.8827164}, "review_count": 1, "name": "SoHa Living", "distance": 1411.310552066, "categories": ["homedecor", "giftshops", "jewelry"]}, {"rating": 5.0, "coord": {"latitude": 19.92797, "longitude": -155.78648}, "review_count": 2, "name": "Aloha Photo Booth Rental", "distance": 2741.10674566, "categories": ["partysupplies", "photographers", "musicvenues"]}, {"rating": 5.0, "coord": {"latitude": 19.9410046, "longitude": -155.8584785}, "review_count": 1, "name": "The Fine Hawaiian Gift Gallery", "distance": 3585.835471336, "categories": ["souvenirs", "giftshops", "jewelry"]}, {"rating": 4.5, "coord": {"latitude": 19.950913, "longitude": -155.858191}, "review_count": 15, "name": "Pacific Dream Photography", "distance": 4291.076905588, "categories": ["eventphotography", "videographers", "sessionphotography"]}, {"rating": 5.0, "coord": {"latitude": 19.9756508, "longitude": -155.8257113}, "review_count": 5, "name": "Molly Irene Media", "distance": 7080.58262054, "categories": ["photographers", "videographers"]}, {"rating": 5.0, "coord": {"latitude": 19.665991, "longitude": -155.980558}, "review_count": 1, "name": "Kyli's Kona Tours", "distance": 13972.41540852, "categories": ["localservices", "tours"]}, {"rating": 5.0, "coord": {"latitude": 19.71663, "longitude": -155.98149}, "review_count": 17, "name": "Big Island Transportation", "distance": 23853.832210139997, "categories": ["airport_shuttles", "tours"]}, {"rating": 3.5, "coord": {"latitude": 20.0170878, "longitude": -155.6731964}, "review_count": 5, "name": "Parker Ranch", "distance": 24697.74757538, "categories": ["wildlifehunting", "historicaltours", "ranches"]}, {"rating": 5.0, "coord": {"latitude": 20.0224628, "longitude": -155.6755898}, "review_count": 4, "name": "Sassafras", "distance": 24717.785467719998, "categories": ["galleries", "jewelry"]}, {"rating": 5.0, "coord": {"latitude": 19.724062, "longitude": -155.992176}, "review_count": 12, "name": "Kelilina Photography + Films", "distance": 24780.1988916, "categories": ["videographers", "sessionphotography", "eventphotography"]}, {"rating": 5.0, "coord": {"latitude": 20.02034, "longitude": -155.66899}, "review_count": 2, "name": "R&L Taxi Services", "distance": 25114.7243507, "categories": ["tours", "taxis"]}, {"rating": 5.0, "coord": {"latitude": 20.02034, "longitude": -155.66899}, "review_count": 1, "name": "Hale Ho'onanea Bed & Breakfast", "distance": 25114.7243507, "categories": ["hotels", "bedbreakfast"]}, {"rating": 4.0, "coord": {"latitude": 20.0202599, "longitude": -155.667099}, "review_count": 1, "name": "Kona natural foods - Healthways II", "distance": 25461.09938022, "categories": ["nutritionists", "healthmarkets"]}, {"rating": 5.0, "coord": {"latitude": 20.02488, "longitude": -155.66151}, "review_count": 8, "name": "Mountain Road Cycles", "distance": 26153.521133899998, "categories": ["bikes", "bikerentals", "bike_repair_maintenance"]}, {"rating": 4.5, "coord": {"latitude": 19.69546, "longitude": -155.96408}, "review_count": 4, "name": "Nancy's Hideaway Bed & Breakfast", "distance": 26484.977581619998, "categories": ["hotels", "bedbreakfast"]}, {"rating": 5.0, "coord": {"latitude": 19.6975899, "longitude": -155.9763336}, "review_count": 3, "name": "Big Island Focus", "distance": 26836.529857920003, "categories": ["eventphotography", "videographers"]}, {"rating": 5.0, "coord": {"latitude": 19.68081, "longitude": -155.97803}, "review_count": 15, "name": "Honu Kai Bed & Breakfast", "distance": 28655.00198158, "categories": ["bedbreakfast", "guesthouses"]}, {"rating": 4.5, "coord": {"latitude": 19.692415, "longitude": -156.017321}, "review_count": 16, "name": "Gold Coast Town Car Services", "distance": 29110.683383899996, "categories": ["tours", "limos", "taxis"]}, {"rating": 5.0, "coord": {"latitude": 19.6912113, "longitude": -156.0186409}, "review_count": 1, "name": "Hawaii Forest & Trail Retail Store", "distance": 29293.903524219997, "categories": ["giftshops", "outdoorgear"]}, {"rating": 3.0, "coord": {"latitude": 19.69037, "longitude": -156.01924}, "review_count": 3, "name": "Farm & Garden", "distance": 29402.34246276, "categories": ["gardening", "farmingequipment"]}, {"rating": 5.0, "coord": {"latitude": 19.69027, "longitude": -156.02183}, "review_count": 1, "name": "Bella Pietra Kona", "distance": 29539.96356352, "categories": ["buildingsupplies", "homedecor"]}, {"rating": 4.0, "coord": {"latitude": 19.6870393, "longitude": -156.0157334}, "review_count": 19, "name": "Mac Made Easy", "distance": 29565.4828679, "categories": ["mobilephonerepair", "datarecovery", "computers"]}, {"rating": 5.0, "coord": {"latitude": 19.68967, "longitude": -156.0215}, "review_count": 2, "name": "Kohanaiki Golf and Ocean Club", "distance": 29575.303060579998, "categories": ["golf", "golflessons"]}, {"rating": 4.0, "coord": {"latitude": 19.6882796, "longitude": -156.0210568}, "review_count": 1, "name": "Roberts Hawaii Express", "distance": 29700.15726712, "categories": ["tours", "transport"]}, {"rating": 5.0, "coord": {"latitude": 19.6862297, "longitude": -156.0187836}, "review_count": 2, "name": "Cloud 9", "distance": 29795.980589400002, "categories": ["vapeshops", "tobaccoshops", "fashion"]}, {"rating": 5.0, "coord": {"latitude": 19.64014, "longitude": -155.99568}, "review_count": 1, "name": "Luana Limousine", "distance": 33591.92119136, "categories": ["limos", "tours"]}, {"rating": 5.0, "coord": {"latitude": 19.631841, "longitude": -155.9863651}, "review_count": 3, "name": "Image Sense Hawaii", "distance": 34094.40059154, "categories": ["videographers", "eventphotography"]}, {"rating": 5.0, "coord": {"latitude": 19.6203647, "longitude": -155.9671099}, "review_count": 3, "name": "Creative Video & Photo Concepts", "distance": 34777.2178041, "categories": ["wedding_planning", "videographers", "eventphotography"]}, {"rating": 5.0, "coord": {"latitude": 19.7204906, "longitude": -155.0645712}, "review_count": 5, "name": "Walczuk Productions LLC", "distance": 89026.4840042, "categories": ["videographers", "eventphotography"]}, {"rating": 5.0, "coord": {"latitude": 20.7825, "longitude": -156.46334}, "review_count": 3, "name": "Tenessa Chase Photography", "distance": 110043.05462235998, "categories": ["videofilmproductions", "eventphotography", "sessionphotography"]}, {"rating": 4.0, "coord": {"latitude": 20.886816, "longitude": -156.4654694}, "review_count": 4, "name": "Renee Thomas Designs", "distance": 122962.0008949, "categories": ["wedding_planning", "eventplanning", "florists"]}]
+[
+    {
+        "rating": 5.0, 
+        "review_count": 3, 
+        "name": "Waikoloa Beach Resort", 
+        "distance": 398.9095519968, 
+        "categories": [
+            "golf", 
+            "apartments"
+        ], 
+        "id": "waikoloa-beach-resort-waikoloa", 
+        "coord": {
+            "latitude": 19.92088, 
+            "longitude": -155.88565
+        }
+    }, 
+    {
+        "rating": 4.0, 
+        "review_count": 11, 
+        "name": "Quiksilver", 
+        "distance": 1411.310552066, 
+        "categories": [
+            "sportswear", 
+            "surfing", 
+            "swimwear"
+        ], 
+        "id": "quiksilver-waikoloa", 
+        "coord": {
+            "latitude": 19.92545, 
+            "longitude": -155.88433
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 2, 
+        "name": "Aloha Photo Booth Rental", 
+        "distance": 2741.10674566, 
+        "categories": [
+            "partysupplies", 
+            "photographers", 
+            "musicvenues"
+        ], 
+        "id": "aloha-photo-booth-rental-waikoloa", 
+        "coord": {
+            "latitude": 19.92797, 
+            "longitude": -155.78648
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "The Fine Hawaiian Gift Gallery", 
+        "distance": 3585.835471336, 
+        "categories": [
+            "souvenirs", 
+            "giftshops", 
+            "jewelry"
+        ], 
+        "id": "the-fine-hawaiian-gift-gallery-kamuela", 
+        "coord": {
+            "latitude": 19.9410046, 
+            "longitude": -155.8584785
+        }
+    }, 
+    {
+        "rating": 4.0, 
+        "review_count": 71, 
+        "name": "Paniolo Greens", 
+        "distance": 9660.918392341999, 
+        "categories": [
+            "hotels", 
+            "resorts", 
+            "vacation_rentals"
+        ], 
+        "id": "paniolo-greens-waikoloa-2", 
+        "coord": {
+            "latitude": 19.9269326504597, 
+            "longitude": -155.795293704841
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "Angela Zink", 
+        "distance": 10191.91481452, 
+        "categories": [
+            "professional", 
+            "food", 
+            "personalchefs", 
+            "catering"
+        ], 
+        "id": "angela-zink-big-island-2", 
+        "coord": {
+            "latitude": 19.9500809, 
+            "longitude": -155.7556763
+        }
+    }, 
+    {
+        "rating": 3.0, 
+        "review_count": 2, 
+        "name": "Na Hoku", 
+        "distance": 10203.309424522, 
+        "categories": [
+            "jewelry", 
+            "watches"
+        ], 
+        "id": "na-hoku-waikoloa-3", 
+        "coord": {
+            "latitude": 19.9372484, 
+            "longitude": -155.7910681
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "Kyli's Kona Tours", 
+        "distance": 13972.41540852, 
+        "categories": [
+            "localservices", 
+            "tours"
+        ], 
+        "id": "kylis-kona-tours-hawaii", 
+        "coord": {
+            "latitude": 19.665991, 
+            "longitude": -155.980558
+        }
+    }, 
+    {
+        "rating": 4.5, 
+        "review_count": 3, 
+        "name": "Anna Ranch Heritage Center", 
+        "distance": 23745.02151406, 
+        "categories": [
+            "museums", 
+            "landmarks"
+        ], 
+        "id": "anna-ranch-heritage-center-kamuela", 
+        "coord": {
+            "latitude": 20.02606, 
+            "longitude": -155.68804
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 17, 
+        "name": "Big Island Transportation", 
+        "distance": 23853.832210139997, 
+        "categories": [
+            "airport_shuttles", 
+            "tours"
+        ], 
+        "id": "big-island-transportation-kalaoa", 
+        "coord": {
+            "latitude": 19.71663, 
+            "longitude": -155.98149
+        }
+    }, 
+    {
+        "rating": 3.5, 
+        "review_count": 5, 
+        "name": "Parker Ranch", 
+        "distance": 24697.74757538, 
+        "categories": [
+            "wildlifehunting", 
+            "historicaltours", 
+            "ranches"
+        ], 
+        "id": "parker-ranch-kamuela-2", 
+        "coord": {
+            "latitude": 20.0170878, 
+            "longitude": -155.6731964
+        }
+    }, 
+    {
+        "rating": 4.0, 
+        "review_count": 1, 
+        "name": "Habitat For Humanity", 
+        "distance": 24957.2987119, 
+        "categories": [
+            "homeservices", 
+            "pawn"
+        ], 
+        "id": "habitat-for-humanity-waimea", 
+        "coord": {
+            "latitude": 20.02147, 
+            "longitude": -155.67277
+        }
+    }, 
+    {
+        "rating": 3.5, 
+        "review_count": 9, 
+        "name": "Three Frogs Cafe", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "cafes", 
+            "eventplanning"
+        ], 
+        "id": "three-frogs-cafe-kamuela", 
+        "coord": {
+            "latitude": 20.02031, 
+            "longitude": -155.66903
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 2, 
+        "name": "R&L Taxi Services", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "tours", 
+            "taxis"
+        ], 
+        "id": "r-and-l-taxi-services-kamuela", 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "Hale Ho'onanea Bed & Breakfast", 
+        "distance": 25114.7243507, 
+        "categories": [
+            "hotels", 
+            "bedbreakfast"
+        ], 
+        "id": "hale-hoonanea-bed-and-breakfast-kamuela", 
+        "coord": {
+            "latitude": 20.02034, 
+            "longitude": -155.66899
+        }
+    }, 
+    {
+        "rating": 4.0, 
+        "review_count": 1, 
+        "name": "Kona natural foods - Healthways II", 
+        "distance": 25461.09938022, 
+        "categories": [
+            "nutritionists", 
+            "healthmarkets"
+        ], 
+        "id": "kona-natural-foods-healthways-ii-kamuela", 
+        "coord": {
+            "latitude": 20.0202599, 
+            "longitude": -155.667099
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 8, 
+        "name": "Mountain Road Cycles", 
+        "distance": 26153.521133899998, 
+        "categories": [
+            "bikes", 
+            "bikerentals", 
+            "bike_repair_maintenance"
+        ], 
+        "id": "mountain-road-cycles-kamuela-3", 
+        "coord": {
+            "latitude": 20.02488, 
+            "longitude": -155.66151
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 10, 
+        "name": "Banyan Tree Sanctuary", 
+        "distance": 26253.3887276, 
+        "categories": [
+            "vacation_rentals", 
+            "resorts"
+        ], 
+        "id": "banyan-tree-sanctuary-kailua-kona", 
+        "coord": {
+            "latitude": 19.7066402, 
+            "longitude": -155.9855042
+        }
+    }, 
+    {
+        "rating": 4.5, 
+        "review_count": 4, 
+        "name": "Nancy's Hideaway Bed & Breakfast", 
+        "distance": 26484.977581619998, 
+        "categories": [
+            "hotels", 
+            "bedbreakfast"
+        ], 
+        "id": "nancys-hideaway-bed-and-breakfast-kailua-kona", 
+        "coord": {
+            "latitude": 19.69546, 
+            "longitude": -155.96408
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 15, 
+        "name": "Honu Kai Bed & Breakfast", 
+        "distance": 28655.00198158, 
+        "categories": [
+            "bedbreakfast", 
+            "guesthouses"
+        ], 
+        "id": "honu-kai-bed-and-breakfast-kailua-kona", 
+        "coord": {
+            "latitude": 19.68081, 
+            "longitude": -155.97803
+        }
+    }, 
+    {
+        "rating": 4.5, 
+        "review_count": 16, 
+        "name": "Gold Coast Town Car Services", 
+        "distance": 29110.683383899996, 
+        "categories": [
+            "tours", 
+            "limos", 
+            "taxis"
+        ], 
+        "id": "gold-coast-town-car-services-kailua-kona-3", 
+        "coord": {
+            "latitude": 19.692415, 
+            "longitude": -156.017321
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "Hawaii Forest & Trail Retail Store", 
+        "distance": 29293.903524219997, 
+        "categories": [
+            "giftshops", 
+            "outdoorgear"
+        ], 
+        "id": "hawaii-forest-and-trail-retail-store-kailua-kona-2", 
+        "coord": {
+            "latitude": 19.6912113, 
+            "longitude": -156.0186409
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 2, 
+        "name": "Kohanaiki Golf and Ocean Club", 
+        "distance": 29575.303060579998, 
+        "categories": [
+            "golf", 
+            "golflessons"
+        ], 
+        "id": "kohanaiki-golf-and-ocean-club-kailua-kona", 
+        "coord": {
+            "latitude": 19.68967, 
+            "longitude": -156.0215
+        }
+    }, 
+    {
+        "rating": 4.0, 
+        "review_count": 1, 
+        "name": "Roberts Hawaii Express", 
+        "distance": 29700.15726712, 
+        "categories": [
+            "tours", 
+            "transport"
+        ], 
+        "id": "roberts-hawaii-express-kailua-kona", 
+        "coord": {
+            "latitude": 19.6882796, 
+            "longitude": -156.0210568
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 2, 
+        "name": "Cloud 9", 
+        "distance": 29795.980589400002, 
+        "categories": [
+            "vapeshops", 
+            "tobaccoshops", 
+            "fashion"
+        ], 
+        "id": "cloud-9-kailua-kona", 
+        "coord": {
+            "latitude": 19.6862297, 
+            "longitude": -156.0187836
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 7, 
+        "name": "Hawaii Island Events", 
+        "distance": 30599.628658499998, 
+        "categories": [
+            "eventplanning", 
+            "partyequipmentrentals"
+        ], 
+        "id": "hawaii-island-events-kailua-kona", 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99577
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 1, 
+        "name": "Luana Limousine", 
+        "distance": 33591.92119136, 
+        "categories": [
+            "limos", 
+            "tours"
+        ], 
+        "id": "luana-limousine-kailua-kona", 
+        "coord": {
+            "latitude": 19.64014, 
+            "longitude": -155.99568
+        }
+    }, 
+    {
+        "rating": 5.0, 
+        "review_count": 2, 
+        "name": "Sunset Party Rentals", 
+        "distance": 87526.4986572, 
+        "categories": [
+            "partyequipmentrentals", 
+            "eventplanning"
+        ], 
+        "id": "sunset-party-rentals-hilo", 
+        "coord": {
+            "latitude": 19.68736, 
+            "longitude": -155.08976
+        }
+    }
+]
