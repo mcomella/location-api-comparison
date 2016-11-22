@@ -15,17 +15,6 @@ SHOW_CATS = {'active',
              'restaurants',
              'shopping'}
 
-HIDE_CATS = {'auto',
-             "bicycles",
-             "education",
-             "financialservices",
-             "health",
-             "homeservices",
-             "localservices",
-             "professional",
-             #"realestate", # not a root category
-             "religiousorgs"}
-
 ITER = 50
 DEF_PARAMS = {'latitude': 19.924043,
               'longitude': -155.887652,
@@ -99,15 +88,6 @@ def should_show_place(place):
     return should_show_place_by_cats(cats) and should_show_place_by_rating(rating, review_count)
 
 def should_show_place_by_cats(cats):
-    #cats_to_root = CATS_TO_ROOT
-
-    #roots = set()
-    #for cat in cats:
-    #    roots = roots.union(cats_to_root[cat])
-
-    #if len(roots - HIDE_CATS) == 0:
-    #    return False
-
     # We whitelisted the categories so we don't need to do ^ anymore.
     return True
 
