@@ -148,7 +148,7 @@ def should_show_place_by_cats(cats):
 
 def should_show_place_by_rating(rating, review_count):
     if rating <= 2.5 or \
-            (rating == 3 and review_count > 3):
+            review_count < 4:
         return False
     return True
 
